@@ -1,0 +1,6 @@
+{
+  "name": "Form Pendaftaran Bina Karya",
+  "description": "Formulir pendaftaran online multi-step yang terintegrasi langsung dengan Google Apps Script dan Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
